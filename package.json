@@ -1,0 +1,18 @@
+{
+  "name": "giveaway-bot",
+  "version": "1.0.0",
+  "description": "GiveawayBoat-style Discord giveaway bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Haymooed & Onyx",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
