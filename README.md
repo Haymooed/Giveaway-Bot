@@ -120,7 +120,7 @@ Giveaway-Bot/
 
 ## Support
 
-Join the AeroX Development Discord server for help, updates, and community support.
+Join the Onyx Discord server for help, updates, and community support.
 
 **[discord.gg/Onyx](https://discord.gg/UnAHC7Vmum)**
 
@@ -128,6 +128,6 @@ Join the AeroX Development Discord server for help, updates, and community suppo
 
 <div align="center">
 
-© 2026 AeroX Development. All rights reserved.
+© 2026 Onyx. All rights reserved.
 
 </div>
