@@ -11,7 +11,7 @@ Designed for custom giveaways, server activity tracking, and community leveling.
 
 ## Overview
 
-Onyx is a powerful, fully optimized Discord giveaway and utility bot engineered for performance and extensibility. It supports advanced entry requirements, level/XP metrics, templates, and scheduled giveaways, backed by a persistent data store with an efficient in-memory cache layer.
+Giveaway-Bot is a powerful, fully optimized Discord giveaway and utility bot engineered for performance and extensibility. It supports advanced entry requirements, level/XP metrics, templates, and scheduled giveaways, backed by a persistent data store with an efficient in-memory cache layer.
 
 ---
 
